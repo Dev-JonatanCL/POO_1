@@ -1,5 +1,5 @@
 # Primeiros passos programando em Python.
-### Foi passado em sala de aula estes 8 exercícios simples para praticar.
+### Foi passado em sala de aula estes 8 exercícios simples para praticar. Criando a narrativa, pseudocódigo, fluxograma e o código.
 <ul>
   <li>Tecnologias utilizadas:</li>
 </ul>
